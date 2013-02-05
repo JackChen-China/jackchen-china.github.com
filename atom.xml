@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[麒汀 Blog]]></title>
+  <link href="http://JackChen-China.github.com/atom.xml" rel="self"/>
+  <link href="http://JackChen-China.github.com/"/>
+  <updated>2013-02-05T12:23:52+08:00</updated>
+  <id>http://JackChen-China.github.com/</id>
+  <author>
+    <name><![CDATA[JackChen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
